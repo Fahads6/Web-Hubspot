@@ -1,0 +1,120 @@
+
+
+    .img img {
+        width: 130px;
+        height: 40px;
+    }
+
+    #videoelement {
+        
+        background-color: rgb(248, 96, 41);
+        width: 100%;
+        height: 650px;
+
+    }
+
+    .inervideo {
+        font-family: "Queens Medium", serif;
+        font-weight: 500;
+        color: white;
+        padding-left: 10%;
+        padding-top: 100px;
+        font-size: 43px;
+    }
+
+    .inervideo p {
+
+        font-size: large;
+    }
+
+    .demo {
+        font-size:xx-large ;
+        float: right;
+       
+
+    }
+
+    .inervideo,
+    .ani {
+        display: inline-block;
+
+
+    }
+
+    .ani {
+        float: right;
+        padding-right: 150px;
+    }
+    .button{
+        height: 60px;
+        weight: 60px;
+        
+    }
+    .button12{
+        
+    }
+    button
+    .crm h1{
+        padding-top: 30px;
+        text-align: center;
+        font-size :5.5ch;
+        font-weight: bold;
+        color: rgb(62, 62, 64);
+    }
+    .crm{
+        padding-left: 18%;
+        padding-right: 18%;
+    }
+    
+    .crm p{
+        
+        text-align: left;
+        font-size: x-large;
+    }
+    .ani{
+        position: absolute;
+        
+    }
+    .crmbutton {
+        display: inline-block;
+        margin: 10px;
+    }
+    #firstbutton{
+        background-color: #FF5C35;
+        border: none;
+        height:50px;
+        width: 210px;
+        margin-left: 550px;
+        color: white;
+        font-size: 18px;
+    }
+    #secondbutton{
+        background-color: white;
+        border: 1px solid #FF5C35;
+        height:50px;
+        width: 260px;
+        font-size: 18px;
+        color: #FF5C35;
+        font-weight: 500;
+        
+        
+
+    }
+    .boxs{
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0 0 20px rgb(234, 232, 232);
+        transition: 0.3s;
+        margin: 15px;
+    }
+    .boxs:hover{
+        box-shadow: 0 0 25px 5px rgb(234, 232, 232);
+        transform: scale(1.03);
+    }
+    .flexbox{
+        display: flex;
+        flex-direction: row;
+        padding-top: 50px;
+       
+
+    }
+    .boxs li{}
